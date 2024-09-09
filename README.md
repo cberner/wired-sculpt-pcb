@@ -8,6 +8,10 @@ To get the board manufactured:
 
 ## Project Updates
 
+### 2024-09-08
+
+Uploaded QMK config for rev6 (... I hope?) 
+
 ### 2023-02-20
 
 rev6 board with USB-C
